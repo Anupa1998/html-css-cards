@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Anupa1998/html-css-cards/issues"
   },
-  "homepage": "https://github.com/Anupa1998/html-css-cards#readme"
+  "homepage": "https://github.com/Anupa1998/html-css-cards#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
